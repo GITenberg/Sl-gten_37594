@@ -1,0 +1,27 @@
+_repo: Sl-gten_37594
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37594-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wied, Gustav
+    alias: Wied, Gustav Johannes
+    birthdate: 1858
+    deathdate: 1914
+    gutenberg_agent_id: '38936'
+    url: http://www.gutenberg.org/2009/agents/38936
+description: ''
+gutenberg_issued: '2011-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37594'
+language: da
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Danish fiction'
+title: Slægten
+url: http://www.gutenberg.org/ebooks/37594
